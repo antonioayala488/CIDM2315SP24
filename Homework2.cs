@@ -34,7 +34,7 @@ class Program
 
 class Program2
 {
-    static void Main2(string[] args)
+    static void Main(string[] args)
     {
         Console.WriteLine("Please input the first num:");
         int x = Convert.ToInt16(Console.ReadLine());
